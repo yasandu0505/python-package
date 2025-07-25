@@ -1,2 +1,2 @@
 def extract_documents():
-    print("Running step: extract")
+    print("📄 Extracting text from documents...")

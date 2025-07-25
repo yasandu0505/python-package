@@ -1,2 +1,2 @@
 def archive_documents():
-    print("Running step: archive")
+    print("📦 Archiving documents...")

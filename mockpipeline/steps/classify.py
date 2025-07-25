@@ -1,2 +1,2 @@
 def classify_documents():
-    print("Running step: classify")
+    print("🧠 Classifying documents...")
